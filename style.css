@@ -1,0 +1,22 @@
+body {
+  background-image: url("assets/Element BG.png");
+  min-height: 3000px;
+  background-repeat: no-repeat;
+}
+
+/* ALL VERSION */
+.btn-contact-us {
+  background-color: #2e3192;
+  padding: 6px, 16px, 6px, 16px;
+  border-radius: 6px;
+  width: 114px;
+  height: 40px;
+}
+
+#landing-page {
+  margin-top: 124px;
+}
+
+/* TAB VERSION */
+
+/* DESKTOP VERSION */
